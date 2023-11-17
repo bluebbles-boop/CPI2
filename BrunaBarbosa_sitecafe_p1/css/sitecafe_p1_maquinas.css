@@ -1,0 +1,8 @@
+#tituloTabela{
+    font-size: large;
+}
+
+.tabelaMaquinas td{
+    width: 100px;
+    text-align: center;
+}
